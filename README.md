@@ -1,4 +1,4 @@
-# Difference-generator: Gendiff - program of data compare
+# Difference-generator: program of data compare
 
 ### Tests and linter status:
 
